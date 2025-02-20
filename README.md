@@ -1,6 +1,9 @@
 # React Project Menu
 
-![Menu Screenshot](https://github.com/BinyamCheru/Menu-Project/blob/master/menu_screenshot.png?raw=true)
+<p align="center">
+  <img src="https://github.com/BinyamCheru/Menu-Project/blob/master/menu_screenshot.png?raw=true" width="45%">
+  <img src="https://github.com/BinyamCheru/Menu-Project/blob/master/menu_screenshot-01.png?raw=true" width="45%">
+</p>
 
 ## Description
 This is a React-based menu project using Vite that displays a list of food items categorized into different sections such as Breakfast, Lunch, and Shakes. Users can filter menu items by category using buttons.

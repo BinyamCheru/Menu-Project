@@ -1,8 +1,30 @@
-# React + Vite
+# React Project Menu
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Menu Screenshot](https://github.com/BinyamCheru/Menu-Project/blob/master/menu_screenshot.png?raw=true)
 
-Currently, two official plugins are available:
+## Description
+This is a React-based menu project using Vite that displays a list of food items categorized into different sections such as Breakfast, Lunch, and Shakes. Users can filter menu items by category using buttons.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- Displays a menu with food images, names, descriptions, and prices.
+- Provides category filters to sort menu items.
+- Responsive design for different screen sizes.
+
+## Technologies Used
+- Vite
+- React.js
+- CSS (for styling)
+
+## Installation
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/BinyamCheru/Menu-Project.git
+2. Navigate to the project folder
+    ```sh
+   cd Menu-Project
+3. Install dependencies:
+    ```sh
+    npm install
+4. Start the development server:
+  ```sh
+  npm run dev
